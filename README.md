@@ -3,9 +3,14 @@ This program was created to build a choir with Voice Conversion AI
 for now it excuted only for mac m series
 
 To start this program, 
-1. download
-2. install requirements
-3. excute audience-choir.py
+
+```
+git clone https://github.com/single-bungle/audience-choir.git 
+cd audience-choir
+python3 -m venv venv  
+source venv/bin/activate 
+pip install -r requirements.txt
+```
 
 GUI GUIDE
 1. upload targets audio file(singers voices) # you can find samples in "/local-dataset"
