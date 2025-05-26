@@ -1,6 +1,7 @@
-This program was created to build a choir with Voice Conversion AI
+This program was created for building choir with any voices and any songs
 
-for now it excuted only for mac m series
+
+
 
 To start this program, 
 
