@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 GUI GUIDE
-1. upload targets audio file(singers voices) # you can find samples in "/local-dataset"
+1. upload targets audio file(singers voices)
    1) you can find samples in "/local-dataset"
    2) you can upload many audio files
    3) check boxes to activate
